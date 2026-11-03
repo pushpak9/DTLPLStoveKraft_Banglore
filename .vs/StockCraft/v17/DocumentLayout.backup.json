@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DTLPL-SW\\Stockcraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|d:\\dtlpl-sw\\stockcraft\\forms\\masters\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\masters\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\masters\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\masters\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\masters\\printermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\masters\\printermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\pl\\printermastermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:pl\\printermastermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\masters\\printermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\masters\\printermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\scannerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:scannerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\datalayer\\dl_printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:datalayer\\dl_printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\datalayer\\dl_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:datalayer\\dl_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\workorderinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\workorderinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\missingscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\missingscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\missingscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\missingscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\masterprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\masterprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\masterprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\masterprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\missingscanreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\missingscanreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\missingscanreport.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\missingscanreport.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\childprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\childprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\childprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\childprintreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\latestscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\latestscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\reprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\reprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\businesslayer\\blcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:businesslayer\\blcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\reprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\reprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\dll\\bcilclient_x86.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:dll\\bcilclient_x86.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\datalayer\\dlscanbarcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:datalayer\\dlscanbarcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\latestscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\latestscanreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\latestscanreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\latestscanreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\report\\latestscanreport.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\report\\latestscanreport.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\reprintmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\reprintmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|D:\\DTLPL-SW\\Stockcraft\\forms\\transaction\\reprintmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC99CB18-AA87-4E7D-93F9-DCEA8FE9F09C}|StockCraft.csproj|solutionrelative:forms\\transaction\\reprintmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrinterMaster.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\PrinterMaster.cs",
+              "RelativeDocumentMoniker": "Forms\\Masters\\PrinterMaster.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\PrinterMaster.cs",
+              "RelativeToolTip": "Forms\\Masters\\PrinterMaster.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:44:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrinterMaster.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\PrinterMaster.cs",
+              "RelativeDocumentMoniker": "Forms\\Masters\\PrinterMaster.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\PrinterMaster.cs [Design]",
+              "RelativeToolTip": "Forms\\Masters\\PrinterMaster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:44:30.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Forms\\Masters\\MainWindow.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\MainWindow.cs [Design]",
+              "RelativeToolTip": "Forms\\Masters\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:55:11.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inspection.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Inspection.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\Inspection.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Inspection.cs [Design]",
+              "RelativeToolTip": "Forms\\Transaction\\Inspection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:35:38.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DL_Printing.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\DataLayer\\DL_Printing.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DL_Printing.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\DataLayer\\DL_Printing.cs",
+              "RelativeToolTip": "DataLayer\\DL_Printing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:57:46.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MissingScanReport.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\MissingScanReport.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.cs",
+              "RelativeToolTip": "Forms\\Report\\MissingScanReport.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:10:35.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrinterMasterModel.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\PL\\PrinterMasterModel.cs",
+              "RelativeDocumentMoniker": "PL\\PrinterMasterModel.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\PL\\PrinterMasterModel.cs",
+              "RelativeToolTip": "PL\\PrinterMasterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T02:36:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Forms\\Masters\\MainWindow.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Masters\\MainWindow.cs",
+              "RelativeToolTip": "Forms\\Masters\\MainWindow.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAA7wP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:55:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inspection.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Inspection.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\Inspection.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Inspection.cs",
+              "RelativeToolTip": "Forms\\Transaction\\Inspection.cs",
+              "ViewState": "AgIAAL4GAAAAAAAAAAAkwMMGAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:39:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkOrderInspection.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\WorkOrderInspection.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\WorkOrderInspection.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Transaction\\WorkOrderInspection.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Transaction\\WorkOrderInspection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:08:27.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\Report.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\Report.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Report\\Report.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Report\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:18:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DL_Report.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\DataLayer\\DL_Report.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DL_Report.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\DataLayer\\DL_Report.cs",
+              "RelativeToolTip": "DataLayer\\DL_Report.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwE0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:50:47.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScannerClient.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\ScannerClient.cs",
+              "RelativeDocumentMoniker": "ScannerClient.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\ScannerClient.cs",
+              "RelativeToolTip": "ScannerClient.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T09:00:36.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MasterPrintReport.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MasterPrintReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\MasterPrintReport.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MasterPrintReport.cs",
+              "RelativeToolTip": "Forms\\Report\\MasterPrintReport.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwLgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:51:10.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MasterPrintReport.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MasterPrintReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\MasterPrintReport.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Report\\MasterPrintReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Report\\MasterPrintReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:08:45.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MissingScanReport.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\MissingScanReport.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Report\\MissingScanReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Report\\MissingScanReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:11:40.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LatestScanReport.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\LatestScanReport.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Report\\LatestScanReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Report\\LatestScanReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:28:22.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChildPrintReport.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\ChildPrintReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\ChildPrintReport.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\ChildPrintReport.cs",
+              "RelativeToolTip": "Forms\\Report\\ChildPrintReport.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvywAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T08:38:35.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChildPrintReport.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\ChildPrintReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\ChildPrintReport.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Report\\ChildPrintReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Report\\ChildPrintReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:51:17.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MissingScanReport.resx",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.resx",
+              "RelativeDocumentMoniker": "Forms\\Report\\MissingScanReport.resx",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.resx",
+              "RelativeToolTip": "Forms\\Report\\MissingScanReport.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-06T11:10:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MissingScanReport.Designer.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\MissingScanReport.Designer.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\MissingScanReport.Designer.cs",
+              "RelativeToolTip": "Forms\\Report\\MissingScanReport.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:10:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\Report.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\Report.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\Report.cs",
+              "RelativeToolTip": "Forms\\Report\\Report.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:18:05.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Reprinting.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Reprinting.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\Reprinting.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Transaction\\Reprinting.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Transaction\\Reprinting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:33:25.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "blCommon.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\BusinessLayer\\blCommon.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\blCommon.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\BusinessLayer\\blCommon.cs",
+              "RelativeToolTip": "BusinessLayer\\blCommon.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwHsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T06:13:49.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-18T04:02:52.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DLScanBarcode.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\DataLayer\\DLScanBarcode.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DLScanBarcode.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\DataLayer\\DLScanBarcode.cs",
+              "RelativeToolTip": "DataLayer\\DLScanBarcode.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAowCUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:55:27.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Reprinting.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Reprinting.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\Reprinting.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\Reprinting.cs",
+              "RelativeToolTip": "Forms\\Transaction\\Reprinting.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAIwB4BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:33:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BCILClient_x86.dll",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\dll\\BCILClient_x86.dll",
+              "RelativeDocumentMoniker": "dll\\BCILClient_x86.dll",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\dll\\BCILClient_x86.dll",
+              "RelativeToolTip": "dll\\BCILClient_x86.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-10-04T08:57:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LatestScanReport.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\LatestScanReport.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.cs",
+              "RelativeToolTip": "Forms\\Report\\LatestScanReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:27:59.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReprintMC.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\ReprintMC.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\ReprintMC.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\ReprintMC.cs",
+              "RelativeToolTip": "Forms\\Transaction\\ReprintMC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T09:30:25.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LatestScanReport.resx",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.resx",
+              "RelativeDocumentMoniker": "Forms\\Report\\LatestScanReport.resx",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.resx",
+              "RelativeToolTip": "Forms\\Report\\LatestScanReport.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-02T17:27:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LatestScanReport.Designer.cs",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Report\\LatestScanReport.Designer.cs",
+              "ToolTip": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Report\\LatestScanReport.Designer.cs",
+              "RelativeToolTip": "Forms\\Report\\LatestScanReport.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:27:59.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReprintMC.cs [Design]",
+              "DocumentMoniker": "D:\\DTLPL-SW\\Stockcraft\\Forms\\Transaction\\ReprintMC.cs",
+              "RelativeDocumentMoniker": "Forms\\Transaction\\ReprintMC.cs",
+              "ToolTip": "D:\\Code\\StockCraft\\Forms\\Transaction\\ReprintMC.cs [Design]",
+              "RelativeToolTip": "..\\..\\Code\\StockCraft\\Forms\\Transaction\\ReprintMC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T09:30:14.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

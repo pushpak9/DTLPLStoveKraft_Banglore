@@ -1,0 +1,158 @@
+(Information)_LoginScreen::LoginScreen_Load():::12_10_2026_23_34_57_PM :: Initialize Application
+(Information)_LoginScreen::LoginScreen_Load():::12_10_2026_23_34_57_PM :: Dashtech  ::  Version1.0.0.4
+(Information)_LoginScreen::LoginScreen_Load():::12_10_2026_23_37_45_PM :: Initialize Application
+(Information)_LoginScreen::LoginScreen_Load():::12_10_2026_23_37_45_PM :: Dashtech  ::  Version1.0.0.4
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_38_53_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_38_53_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_06_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_06_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_09_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_09_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_11_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_11_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_14_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_14_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_16_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_39_16_PM :: Command Send
+(Information)_LoginScreen::LoginScreen_Load():::12_10_2026_23_46_51_PM :: Initialize Application
+(Information)_LoginScreen::LoginScreen_Load():::12_10_2026_23_46_51_PM :: Dashtech  ::  Version1.0.0.4
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_48_35_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_48_35_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_48_51_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_48_51_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_48_59_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_48_59_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_00_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_00_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_13_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_13_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_15_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_15_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_18_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_18_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_20_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_20_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_23_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_23_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_40_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_40_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_45_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_45_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_47_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_47_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_49_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_49_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_50_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_50_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_51_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_51_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_52_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_52_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_54_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_54_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_55_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_55_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_56_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_56_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_58_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_49_58_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_11_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_11_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_13_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_13_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_16_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_16_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_18_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_18_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_21_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_21_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_30_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_30_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_32_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_32_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_35_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_35_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_37_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_37_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_40_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_40_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_48_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_48_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_50_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_50_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_53_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_53_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_55_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_55_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_58_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_50_58_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_07_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_07_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_10_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_10_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_12_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_12_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_15_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_15_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_17_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_17_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_38_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_38_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_41_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_41_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_43_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_43_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_46_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_46_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_48_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_48_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_56_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_51_56_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_02_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_02_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_05_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_05_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_07_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_07_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_10_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_10_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_12_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_52_12_PM :: Command Send
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_52_51_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_52_51_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_53_37_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_53_37_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_53_45_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_53_45_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_53_45_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_53_45_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_53_59_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_53_59_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_16_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_16_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_18_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_18_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_22_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_22_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_23_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_23_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_25_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_25_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_26_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_26_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_28_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_28_PM :: Command Send
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_30_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_54_30_PM :: Command Send
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_55_07_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_55_07_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_55_23_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_55_23_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_55_33_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_55_33_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_55_33_PM :: Socket Connect
+(Information)_blCommon::SendCommandToPrinter():::12_10_2026_23_55_33_PM :: Command Send
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_56_09_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_56_09_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_DL_Printing::SaveScanHistory():::12_10_2026_23_56_44_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
+(Error)_Inspection::ProcessScanBarcode():::12_10_2026_23_56_44_PM :: @Status is not a parameter for procedure USP_GetOrderSerial.
